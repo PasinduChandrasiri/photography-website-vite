@@ -48,7 +48,7 @@ Welcome to my personal photography portfolio! This site is a modern, responsive 
 ## 🔗 Links
 
 - **Live Website:** [Vercel](https://photography-website-vite.vercel.app/)
-- **LinkedIn project:** [GitHub](https://www.linkedin.com/in/pasinduchandrasiri/details/projects/)
+- **LinkedIn project:** [LinkedIn](https://www.linkedin.com/in/pasinduchandrasiri/details/projects/)
 
 ---
 
